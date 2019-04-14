@@ -1,0 +1,106 @@
+FILE: test/tutorial.html
+TITLE: C library function fscanf()
+TAGSTATS: 
+<a> 65
+<aside> 1
+<b> 9
+<base> 1
+<body> 1
+<button> 2
+<div> 47
+<h1> 2
+<h2> 5
+<h3> 1
+<head> 1
+<header> 1
+<hr> 5
+<html> 1
+<i> 22
+<img> 11
+<input> 2
+<li> 59
+<link> 2
+<meta> 11
+<nav> 3
+<p> 18
+<pre> 3
+<script> 17
+<span> 2
+<style> 2
+<table> 2
+<td> 29
+<th> 5
+<title> 1
+<tr> 13
+<ul> 11
+LINKS: 
+<REL>https://www.tutorialspoint.com//favicon.ico
+https://www.tutorialspoint.com/theme/js/script-min-v4.js?v=2
+https://www.tutorialspoint.com/theme/css/style-min.css?v=3.1
+<REL>https://www.tutorialspoint.com/index.htm
+<REL>https://www.tutorialspoint.com//about/about_careers.htm
+<REL>https://www.tutorialspoint.com//programming_examples/
+https://www.tutorialspoint.com/whiteboard.htm
+https://www.tutorialspoint.com/netmeeting.php
+<REL>https://www.tutorialspoint.com//online_dev_tools.htm
+<REL>https://www.tutorialspoint.com//articles/index.php
+https://www.facebook.com/tutorialspointindia
+https://plus.google.com/u/0/116678774017490391259/posts
+https://www.twitter.com/tutorialspoint
+https://www.linkedin.com/company/tutorialspoint
+https://www.youtube.com/channel/UCVLbzhxVTiTLiVKeGV7WEBg
+<REL>https://www.tutorialspoint.com//questions/index.php
+<REL>https://www.tutorialspoint.com/tutorialslibrary.htm
+<REL>https://www.tutorialspoint.com/videotutorials/index.htm
+<REL>https://www.tutorialspoint.com/tutor_connect/index.php
+<REL>https://www.tutorialspoint.com/codingground.htm
+https://store.tutorialspoint.com/
+<REL>https://www.tutorialspoint.com//c_standard_library/index.htm
+<REL>https://www.tutorialspoint.com//c_standard_library/assert_h.htm
+<REL>https://www.tutorialspoint.com//c_standard_library/ctype_h.htm
+<REL>https://www.tutorialspoint.com//c_standard_library/errorno_h.htm
+<REL>https://www.tutorialspoint.com//c_standard_library/float_h.htm
+<REL>https://www.tutorialspoint.com//c_standard_library/limits_h.htm
+<REL>https://www.tutorialspoint.com//c_standard_library/locale_h.htm
+<REL>https://www.tutorialspoint.com//c_standard_library/math_h.htm
+<REL>https://www.tutorialspoint.com//c_standard_library/setjmp_h.htm
+<REL>https://www.tutorialspoint.com//c_standard_library/signal_h.htm
+<REL>https://www.tutorialspoint.com//c_standard_library/stdarg_h.htm
+<REL>https://www.tutorialspoint.com//c_standard_library/stddef_h.htm
+<REL>https://www.tutorialspoint.com//c_standard_library/stdio_h.htm
+<REL>https://www.tutorialspoint.com//c_standard_library/stdlib_h.htm
+<REL>https://www.tutorialspoint.com//c_standard_library/string_h.htm
+<REL>https://www.tutorialspoint.com//c_standard_library/time_h.htm
+<REL>https://www.tutorialspoint.com//c_standard_library/c_standard_library_quick_guide.htm
+<REL>https://www.tutorialspoint.com//c_standard_library/c_standard_library_useful_resources.htm
+<REL>https://www.tutorialspoint.com//c_standard_library/c_standard_library_discussion.htm
+<REL>https://www.tutorialspoint.com//cprogramming/index.htm
+<REL>https://www.tutorialspoint.com//cprogramming/c_useful_resources.htm
+<REL>https://www.tutorialspoint.com//upsc_ias_exams.htm
+<REL>https://www.tutorialspoint.com//developers_best_practices/index.htm
+<REL>https://www.tutorialspoint.com//questions_and_answers.htm
+<REL>https://www.tutorialspoint.com//effective_resume_writing.htm
+<REL>https://www.tutorialspoint.com//hr_interview_questions/index.htm
+<REL>https://www.tutorialspoint.com//computer_glossary.htm
+<REL>https://www.tutorialspoint.com//computer_whoiswho.htm
+https://pagead2.googlesyndication.com/pagead/show_ads.js
+http://tpcg.io/FoARsk
+<REL>https://www.tutorialspoint.com//cgi-bin/printpage.cgi
+<REL>https://www.tutorialspoint.com/javascript:void(0)
+<REL>https://www.tutorialspoint.com//about/about_privacy.htm
+<REL>https://www.tutorialspoint.com//about/about_cookies.htm
+<REL>https://www.tutorialspoint.com//about/contact_us.htm
+<REL>https://www.tutorialspoint.com//theme/js/custom-min.js?v=7
+https://www.google-analytics.com/urchin.js
+IMAGES: 
+<REL>https://www.tutorialspoint.com//images/loading-cg.gif
+<REL>https://www.tutorialspoint.com//c_standard_library/images/logo.png
+<REL>https://www.tutorialspoint.com/theme/css/icons/image-editor.png
+<REL>https://www.tutorialspoint.com//c_standard_library/images/c-mini-logo.jpg
+<REL>https://www.tutorialspoint.com//images/facebookIcon.jpg
+<REL>https://www.tutorialspoint.com//images/twitterIcon.jpg
+<REL>https://www.tutorialspoint.com//images/linkedinIcon.jpg
+<REL>https://www.tutorialspoint.com//images/googlePlusIcon.jpg
+<REL>https://www.tutorialspoint.com//images/StumbleUponIcon.jpg
+<REL>https://www.tutorialspoint.com//images/reddit.jpg
+<REL>https://www.tutorialspoint.com//scripts/img/logo-footer.png
