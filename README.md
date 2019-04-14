@@ -2,10 +2,10 @@
 
 
 ## Usage
-`./hmlinfo <html file> `
+`./hmlinfo <html_file> `
 
 ## Output 
- Once the HTML file is processed, the following output will be provided:
+ Once the HTML file is processed, the following output will be provided in a *.info* file:
  
   - **FILE**: file name
   - **TITLE**: title of the html file, contained in the <title> tag.
