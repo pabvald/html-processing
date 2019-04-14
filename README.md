@@ -14,4 +14,8 @@
   - **IMAGES**: list of the URLs contained in the *<image>* tag.
   
 
+## Test folder 
+
+The test folder contains some HTML files and their corresponding *.info* files.
+
 
