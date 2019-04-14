@@ -12,6 +12,8 @@
   - **TAGSTATS**: tag name and number of ocurrences separated by a space. The *DOCYPE* tag and the comment tag won't be included in the stats.
   - **LINKS**: list of the URLs contained in the *<script>*, *<link>* and *<a>* tags.
   - **IMAGES**: list of the URLs contained in the *<image>* tag.
+ 
+If a *<base>* tags exists in the file, the base URL will be included in every realtive URL in the *LINKS* and *IMAGES* lists.
   
 
 ## Test folder 
